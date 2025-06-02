@@ -8,6 +8,7 @@ export default function Home() {
       </Head>
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <h1>Bem-vindo ao site da equipe 6!</h1>
+        <img src="/UsuariosGithub/victor.jpg" alt="Imagem adicionada por Victor25986" width={300} />
         <Image
           className="dark:invert"
           src="/next.svg"
